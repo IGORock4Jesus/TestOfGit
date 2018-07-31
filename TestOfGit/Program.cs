@@ -14,6 +14,7 @@ namespace TestOfGit
 
 			Petr petr = new Petr();
 			Console.WriteLine(petr);
+			Console.WriteLine(petr);
 
 			Console.ReadLine();
 		}
