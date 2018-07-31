@@ -11,6 +11,10 @@ namespace TestOfGit
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Привет Git!");
+
+			Vasya vasya = new Vasya();
+			Console.WriteLine(vasya);
+
 			Console.ReadLine();
 		}
 	}
