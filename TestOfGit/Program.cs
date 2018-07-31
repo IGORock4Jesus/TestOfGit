@@ -10,6 +10,8 @@ namespace TestOfGit
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine("Привет Git!");
+			Console.ReadLine();
 		}
 	}
 }
